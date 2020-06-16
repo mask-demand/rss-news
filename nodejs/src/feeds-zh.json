@@ -1,0 +1,10 @@
+[
+  {
+    "name": "本地新聞-肺炎",
+    "url": "https://news.google.com/rss/search?cf=all&hl=zh-HK&pz=1&q=%E8%82%BA%E7%82%8E&gl=HK&ceid=HK:zh-Hant"
+  },
+  {
+    "name": "本地新聞-口罩",
+    "url": "https://news.google.com/rss/search?cf=all&hl=zh-HK&pz=1&q=%E5%8F%A3%E7%BD%A9&gl=HK&ceid=HK:zh-Hant"
+  }
+]

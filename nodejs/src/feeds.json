@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Wallstreet Journal (WSJ)",
+    "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+  },
+  {
+    "name": "Reuters - World News",
+    "url": "http://feeds.reuters.com/reuters/worldnews"
+  },
+  {
+    "name": "New York Times (NYT)",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+  },
+  {
+    "name": "South China Morning Post (SCMP)",
+    "url": "https://www.scmp.com/rss/2/feed"
+  },
+  {
+    "name": "Reddit - World News",
+    "url": "https://www.reddit.com/r/worldnews/.rss"
+  }
+]
